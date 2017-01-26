@@ -3,9 +3,6 @@ var bell = new Audio("./ship-bell.mp3");
 
 var timer = null;
 
-var pomadoro_count = 0;
-var break_count = 0;
-
 var startTimer = function(minutes) {
   timer = setTimeout(endTimer, minutes * 60 * 1000);
 }
