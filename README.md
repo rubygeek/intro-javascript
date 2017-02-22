@@ -9,7 +9,12 @@ After a brief overview of javascript syntax, we create an index.html with code t
 We customize the project according to it what the students preferred to work on next, those features are in branches.
 
 
-Branches: 
+### Branches
 
 * fancy timer, shows count of pomadoros complete along with the times you had to stop (interruptions)
 * show status, shows a nice window of what the current state is
+
+
+### Slide Deck
+
+[slides.pdf)(/slides.pdf) - a PDF representation of keynote slides
