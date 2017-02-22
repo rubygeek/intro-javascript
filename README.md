@@ -17,4 +17,4 @@ We customize the project according to it what the students preferred to work on 
 
 ### Slide Deck
 
-[slides.pdf)(/slides.pdf) - a PDF representation of keynote slides
+[slides.pdf](/slides.pdf) - a PDF representation of keynote slides
